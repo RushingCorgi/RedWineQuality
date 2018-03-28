@@ -696,11 +696,6 @@ This plot reveals different patterns of quality over alcohol in different subset
 
 # Reflection
 
-> **Tip**: Here's the final step! Reflect on the exploration you performed and
-the insights you found. What were some of the struggles that you went through?
-What went well? What was surprising? Make sure you include an insight into
-future work that could be done with the dataset.
-
 This exploratory data analysis is about a dataset including information about different ingredients of red wine samples. This dataset has 1599 observations and 12 variables except for the index. In initial phase, I explored each variables by doing univariable analysis. In this preliminary exploration, I noticed that some of the variables have long-tail distribution. Hence I transformed the x-axis scale to 'log10' scale and varified the log distribution is bell-like and symmetric. I noticed that the quite a few red wine samples have 'citric.acid' value equal to 0. This made me start to wondering whether citric acid is a good additive in red wine, and how about other additives. By showing the correlation matirx, I decided to focus on exploring the variables of higher than 0.2 correlation coefficients with 'quality' in pairs. Next I compared those pairs along with other variables together.
 
 The main finds can be summarized as follows. The variables I am interested in are 'quality', 'alcohol', 'sulphates', 'total.sulfur.dioxide', 'chlorides'. The most correlated variable with 'quality' is 'alcohol'. The correlation coefficient is 0.521. The most interesting observation is that the total sulfur dioxide density plays a critical rules in enhancing red wine quality. I noticed the red wines with high total sulfur dioxide density does not need much chlorides to reach a high quality when
