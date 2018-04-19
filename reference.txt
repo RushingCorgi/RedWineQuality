@@ -2,3 +2,8 @@ reference:
 
 1. https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf
 2. https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf
+3.https://en.wikipedia.org/wiki/Acids_in_wine
+4.https://en.wikipedia.org/wiki/Wine_fault#Acetic_acid
+5.http://winefolly.com/review/understanding-acidity-in-wine/
+6.http://winefolly.com/review/wine-characteristics/
+7.http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-20612015000100095#B025
